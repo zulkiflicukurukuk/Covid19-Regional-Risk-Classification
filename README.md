@@ -187,7 +187,10 @@ pdm run streamlit run app.py
 Catatan: Pastikan nama file utama Anda sesuai. Jika Anda menggunakan main.py, gunakan perintah: pdm run streamlit run main.py
 
 5. Link Streamlit : 
-- *Link : [Streamlit Zul](https://covid19-regional-risk-classification-6k6z778jvg9zqw2bgginh8.streamlit.app/)*
+- *Link : [Streamlit...](https://covid19-regional-risk-classification-6k6z778jvg9zqw2bgginh8.streamlit.app/)*
+
+6. Link Demo : 
+- *Link : [Demo...](https://drive.google.com/drive/folders/1ITy3ZMcPM0B4TzGZ_r_wMTggg-6Q3ucb?usp=sharing)*
 
 ---
 
